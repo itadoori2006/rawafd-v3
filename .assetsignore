@@ -1,0 +1,6 @@
+README.md
+*.map
+*.ts
+*.mjs
+*.sql
+.env*
